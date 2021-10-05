@@ -6,9 +6,13 @@ This repository contains an overview of the numpy.random package in a Jupyter no
 
 ## Quick Steps
 
-1. You can view the notebook at the following badge image:
+1. Click badge image to view notebook in static form:
 
 [![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/Walter64/numpy-random/blob/main/numpy-random.ipynb)
+
+2. Click badge image to view notebook in dynamic form:
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Walter64/numpy-random/HEAD?labpath=numpy-random.ipynb)
 
 ## How to run the notebook
 
